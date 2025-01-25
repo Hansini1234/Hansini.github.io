@@ -1,19 +1,18 @@
-# About Me
+About Me
+My Interests
+I’m all about diving into cool topics, especially when it comes to tech and creativity! Here’s what I’m into:
 
-## My Interests
-I am passionate about exploring new topics, especially in technology and creative arts. In my free time, I enjoy:
-- Drawing and sketching illustrations.
-- Reading about advancements in artificial intelligence and space exploration.
-- Playing strategy-based video games and collecting rare in-game items.
+Drawing and sketching—it’s my favorite way to relax and express myself.
+Reading up on AI and space exploration because, honestly, the future and the universe are just mind-blowing.
+Playing strategy games and hunting down rare in-game items (I can’t resist a good challenge!).
+I also love learning new things like coding and digital design—it’s so fun finding new ways to be creative.
 
-I also enjoy learning new skills, such as coding and digital design, to express my creativity in different ways.
+Websites I Recommend
+[NASA](https://www.nasa.gov)  
+NASA’s site is my ultimate go-to for space stuff! The articles and breathtaking photos make me feel connected to the mysteries of the universe.
 
-## Websites I Recommend
-- [NASA](https://www.nasa.gov)  
-  I love visiting NASA's website because it offers fascinating insights into space missions, research, and exploration. The articles and imagery inspire my curiosity about the universe.
+[Khan Academy](https://www.khanacademy.org)
+Khan Academy is awesome for learning at your own pace. It’s helped me get better at math, science, and so much more—it’s like having a personal tutor for free!
 
-- [Khan Academy](https://www.khanacademy.org)  
-  Khan Academy is an amazing resource for learning. I use it to improve my knowledge in math, science, and other subjects, all at my own pace.
-
-- [ArtStation](https://www.artstation.com)  
-  This is my go-to platform for discovering and showcasing artwork. It's inspiring to see what talented artists around the world are creating.
+ [ArtStation](https://www.artstation.com)  
+I love ArtStation because it’s full of inspiring artwork from amazing artists. It always motivates me to keep improving my own skills.
