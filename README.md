@@ -1,5 +1,6 @@
-About Me
-My Interests
+# About Me
+
+## My Interests
 I’m all about diving into cool topics, especially when it comes to tech and creativity! Here’s what I’m into:
 
 Drawing and sketching—it’s my favorite way to relax and express myself.
@@ -7,7 +8,7 @@ Reading up on AI and space exploration because, honestly, the future and the uni
 Playing strategy games and hunting down rare in-game items (I can’t resist a good challenge!).
 I also love learning new things like coding and digital design—it’s so fun finding new ways to be creative.
 
-Websites I Recommend
+## Websites I Recommend
 [NASA](https://www.nasa.gov)  
 NASA’s site is my ultimate go-to for space stuff! The articles and breathtaking photos make me feel connected to the mysteries of the universe.
 
